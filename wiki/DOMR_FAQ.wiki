@@ -22,5 +22,5 @@ some ideas by me:
 "or in the linux console, write: /xxxx/domr>domr" 
 
 some ideas by Ales:
-"Changing the rights with # sudo chmod 777 *". Works:) 
+"Changing the rights with # sudo chmod 777 *" 
  
