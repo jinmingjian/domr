@@ -17,10 +17,9 @@ Ror limiting the size of DOMR, the DOMR is packed without the JRE.
 * for Linux
 ||just run the "domr" file at the root directory. ||
 
-||some ideas by me:
+# some ideas by me:
 "You should be able to click the file "domr" in the root directory(such as .../domr). In windows, the "domr" is just the "domr.exe". In linux, there are not the concept of ".exe" files. Linux seemly uses the attribute of file to determine whether the file is an execution file or not." 
-"or in the linux console, write: /xxxx/domr>domr"||
-||
-some ideas by Ales:
-"Changing the rights with # sudo chmod 777 *". Works:)||
+"or in the linux console, write: /xxxx/domr>domr" 
+# some ideas by Ales:
+"Changing the rights with # sudo chmod 777 *". Works:) 
  
