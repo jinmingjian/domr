@@ -4,7 +4,7 @@ DOMR FAQ
 
 ----
 = 1. How to run the DOMR? =
-DOMR is a "green" software(like Eclipse/RCP/OSGI)! 
+DOMR is a "green" software(yep, like the Eclipse/RCP/OSGI)! 
 
 * Prerequisite
 
@@ -15,12 +15,12 @@ Ror limiting the size of DOMR, the DOMR is packed without the JRE.
 ||just run the "domr.exe" file at the root directory.||
 
 * for Linux
-just run the "domr" file at the root directory. 
+||just run the "domr" file at the root directory. ||
 
-some ideas by me:
+||some ideas by me:
 "You should be able to click the file "domr" in the root directory(such as .../domr). In windows, the "domr" is just the "domr.exe". In linux, there are not the concept of ".exe" files. Linux seemly uses the attribute of file to determine whether the file is an execution file or not." 
-"or in the linux console, write: /xxxx/domr>domr"
- 
+"or in the linux console, write: /xxxx/domr>domr"||
+||
 some ideas by Ales:
-"Changing the rights with # sudo chmod 777 *". works:)
+"Changing the rights with # sudo chmod 777 *". Works:)||
  
