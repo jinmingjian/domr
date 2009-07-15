@@ -2,6 +2,7 @@
 DOMR FAQ
 (updated 20090715)
 
+----
 = 1. How to run the DOMR? =
 DOMR is a "green" software(like Eclipse/RCP/OSGI)! 
 
@@ -11,7 +12,7 @@ Make sure that the "java" execution file("java.exe" in the Windows) in your path
 Ror limiting the size of DOMR, the DOMR is packed without the JRE. 
 
 * for Windows
-just run the "domr.exe" file at the root directory.
+||just run the "domr.exe" file at the root directory.||
 
 * for Linux
 just run the "domr" file at the root directory. 
